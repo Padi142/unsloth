@@ -4173,6 +4173,8 @@ export const sv = {
     selection: {
       startChat: "Starta chatt",
       move: "Flytta",
+      selectAll: "Markera alla",
+      countOfTotal: "{count} av {total} markerade",
       clear: "Rensa markering",
     },
     menu: {
